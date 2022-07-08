@@ -1,2 +1,2 @@
 # devopsjash-32-repo
-create repo for demo purpose
+create repo for demo purpose..
